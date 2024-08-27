@@ -1,0 +1,70 @@
+_wandb:
+  desc: 
+  value:
+    t:
+      '1':
+      - 5
+      - 53
+      - 55
+      '2':
+      - 5
+      - 53
+      - 55
+      '3':
+      - 23
+      '4': 3.10.14
+      '5': 0.16.0
+      '8':
+      - 5
+      '13': linux-x86_64
+    framework: sklearn
+    start_time: 1724795016.051784
+    cli_version: 0.16.0
+    is_jupyter_run: false
+    python_version: 3.10.14
+    is_kaggle_kernel: false
+n_jobs:
+  desc: 
+  value: -1
+val_size:
+  desc: 
+  value: 0.2
+criterion:
+  desc: 
+  value: squared_error
+max_depth:
+  desc: 
+  value: 15
+oob_score:
+  desc: 
+  value: true
+rf_config:
+  desc: 
+  value: "/home/mnehete32/data/mlops/build-ml-pipeline-for-short-term-rental-prices/multirun/2024-08-27/17-39-39/11/rf_config.json"
+random_seed:
+  desc: 
+  value: 42
+stratify_by:
+  desc: 
+  value: neighbourhood_group
+max_features:
+  desc: 
+  value: 0.33
+n_estimators:
+  desc: 
+  value: 100
+output_artifact:
+  desc: 
+  value: random_forest_export
+min_samples_leaf:
+  desc: 
+  value: 3
+min_samples_split:
+  desc: 
+  value: 4
+trainval_artifact:
+  desc: 
+  value: trainval_data.csv:latest
+max_tfidf_features:
+  desc: 
+  value: 30
