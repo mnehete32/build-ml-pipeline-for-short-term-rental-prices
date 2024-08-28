@@ -1,4 +1,5 @@
 # [Github Link](https://github.com/mnehete32/build-ml-pipeline-for-short-term-rental-prices/) 
+# [wand workspace](https://wandb.ai/mnehete32/nyc_airbnb/)
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
